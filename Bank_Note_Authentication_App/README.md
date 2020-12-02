@@ -4,7 +4,7 @@
 
 #### [Jupyter Notebook of training and creating a model](https://github.com/KarthikKaiplody/ML_Apps/blob/master/Bank_Note_Authentication_App/Bank-Note-Authentication.ipynb)
 
-#### Whats the Dataset all about?
+#### What's the Dataset all about?
 -NA-
 
 #### What problem will this be solving.
