@@ -4,10 +4,10 @@
 
 #### [Jupyter Notebook of training and creating a model](https://github.com/KarthikKaiplody/ML_Apps/blob/master/Bank_Note_Authentication_App/Bank-Note-Authentication.ipynb)
 
-#### What's the Dataset all about?
--NA-
+#### Objective of the Project
+The objective of the projet is to identify wether the given bank not with the selected features are authentic or not. A binary classfication problem.
 
-#### What problem will this be solving.
+#### What's the Dataset all about?
 -NA-
 
 #### What models are considered and why?
