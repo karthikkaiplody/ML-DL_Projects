@@ -1,4 +1,4 @@
-### Readme is yet to be updated 
+<!-- ### Readme is yet to be updated  -->
 
 ### Flask App For Bank Note Authentication Prediction 
 
