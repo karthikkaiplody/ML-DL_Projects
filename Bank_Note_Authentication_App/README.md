@@ -2,7 +2,7 @@
 
 ### Flask App For Bank Note Authentication Prediction 
 
-#### [Jupyter Notebook of training and creating a model](https://github.com/KarthikKaiplody/ML_Apps/blob/master/Bank_Note_Authentication_App/Bank-Note-Authentication.ipynb)
+#### [Jupyter Notebook for training and model creation](https://github.com/KarthikKaiplody/ML_Apps/blob/master/Bank_Note_Authentication_App/Bank-Note-Authentication.ipynb)
 
 #### Objective of the Project
 The objective of the projet is to identify wether the given bank not with the selected features are authentic or not. A binary classfication problem.
