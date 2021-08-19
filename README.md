@@ -2,7 +2,7 @@
 
 
 # Machine Learning Applications
-  `This repository contains the ML Apps which are built for the learning purpose.`
+  This repository contains the ML Apps which are built for the learning purpose.
   
 ### Flask App
  [Bank Note Authentication Prediction](https://github.com/KarthikKaiplody/ML_Apps/tree/master/Bank_Note_Authentication_App) 
